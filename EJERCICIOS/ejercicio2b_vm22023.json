@@ -1,0 +1,49 @@
+{
+    "@attributes": {
+        "nombre": "El Salvador"
+    },
+    "departamento": [
+        {
+            "@attributes": {
+                "id": "1",
+                "nombre": "San Salvador"
+            },
+            "cabecera": "San Salvador",
+            "habitantes": "1,700,000",
+            "altura": "545 MSNM"
+        },
+        {
+            "@attributes": {
+                "id": "2",
+                "nombre": "San Miguel"
+            },
+            "cabecera": "San Miguel",
+            "habitantes": "232,887",
+            "altura": "110MSNM",
+            "alcalde": "Alexander Torres",
+            "gentillicio": "Migueleno",
+            "zona": "Oriental"
+        },
+        {
+            "@attributes": {
+                "id": "3",
+                "nombre": "Santa Ana"
+            },
+            "cabecera": "Santa Ana",
+            "habitantes": "250,760",
+            "altura": "665MSNM",
+            "alcalde": "Gustavo acevedo",
+            "gentillicio": "Santaneco",
+            "zona": "Occidental",
+            "division": "34 cantones",
+            "patrono": "Senora Santa Ana"
+        }
+    ],
+    "ficha": {
+        "@attributes": {
+            "id": "1"
+        },
+        "pregunta": "¿A partir del ejemplo 2 y ejercicios desarrollados hasta el momento que puede concluir?",
+        "comentario": "Al utilizarr lel standalone, si se guarda el documento que no sea xml especificamente, se crea otro coin diferente formato, cuando antes no era necesario especificarlo en guardar como"
+    }
+}

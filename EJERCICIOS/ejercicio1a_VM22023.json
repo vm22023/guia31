@@ -1,0 +1,22 @@
+{
+    "ficha": [
+        {
+            "@attributes": {
+                "id": "1",
+                "fechaingreso": "15/11/2022"
+            },
+            "nombre": "Daniela Sofia",
+            "apellido": "Vides Miranda",
+            "direccion": "Calle el algodons, 11A"
+        },
+        {
+            "@attributes": {
+                "id": "2",
+                "fechaiingreso": "15/09/2025"
+            },
+            "telefono": "74323435",
+            "edad": "21",
+            "canttMascotas": "6"
+        }
+    ]
+}

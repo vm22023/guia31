@@ -1,0 +1,45 @@
+/* estilo.css - estilos para index.xml con links */
+
+indice {
+  display: block;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+area {
+  display: block;
+  margin-bottom: 20px;
+  border: 2px solid #333;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #f2f2f2;
+}
+
+area::before {
+  content: attr(nombre);
+  display: block;
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: #222;
+}
+
+ejemplo, ejercicio {
+  display: block;
+  margin: 5px 0;
+  padding: 8px;
+  background-color: #e0f7fa;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: underline;
+  color: blue;
+}
+
+ejercicio {
+  background-color: #ffe0b2;
+}
+
+ejemplo:hover, ejercicio:hover {
+  background-color: #c8e6c9;
+}
+

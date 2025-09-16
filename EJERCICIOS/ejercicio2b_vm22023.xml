@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2_vm22023.css"?>
+<!-- ejercicio2b xml  VM22023 -->
+<pais nombre="El Salvador">
+<titulo> DEPARTAMENTOS DE EL SALVADOR</titulo>
+<departamento id="1" nombre="Departamento: San Salvador">
+<cabecera>Cabecera: San Salvador</cabecera>
+<habitantes>Cantidad de habitantes: 1,700,000</habitantes>
+<altura>Altitud: 545 MSNM</altura>
+</departamento>
+
+<departamento id="2" nombre="Departamento: San Miguel">
+<cabecera>Cabecera: San Miguel</cabecera>
+<habitantes>Canrtidad de habitantes: 232,887</habitantes>
+<altura>Altitud: 110MSNM</altura>
+<alcalde> Alcalde:  Alexander Torres</alcalde>
+<gentillicio> Gentilicio: Migueleno</gentillicio>
+<zona> Zona: Oriental</zona>
+</departamento> 
+
+<departamento id="3" nombre="Santa Ana">
+<cabecera>Cabecera: Santa Ana</cabecera>
+<habitantes>Cantidad de habitantes: 250,760</habitantes>
+<altura> Altitud: 665MSNM</altura>
+<alcalde> Alcalde: Gustavo acevedo</alcalde>
+<gentillicio>Gentilicio: Santaneco</gentillicio>
+<zona> Zona:  Occidental</zona>
+<division> Division: 34 cantones</division>
+<patrono> Patrono: Senora Santa Ana</patrono>
+</departamento> 
+<ficha id="1">
+<pregunta> Pregunta: ¿A partir del ejemplo 2 y ejercicios desarrollados hasta el momento que puede concluir?</pregunta>
+<comentario> Al utilizarr lel standalone, si se guarda el documento que no sea xml especificamente, se crea otro coin diferente formato, cuando antes no era necesario especificarlo en guardar como</comentario>
+</ficha>
+</pais>

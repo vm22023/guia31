@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejercicio1a_VM22023.css"?>
+<!-- ejercicio1b.xml  VM22023 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2022">
+<titulo> IINFORMACION PERSONAL</titulo>
+<nombre>Nombre: Daniela Sofia </nombre>
+<apellido>Vides Miranda</apellido>
+<direccion>Direccion: Calle el algodons, 11A</direccion>
+</ficha>
+
+<ficha id ="2" fechaingreso ="1/11/2022"> 
+<telefono> Telefono: 74323435</telefono>
+<edad> Edad: 21</edad>
+<canttMascotas>Cantidad de mascotas:  6 </canttMascotas>
+</ficha>
+<ficha id ="3" fechaingreso ="1/11/2022"> 
+i<iss> Numero Iss: 10102 -22203</iss>
+<numAFP> Numero AFP: 12345667-66643</numAFP>
+<carnet> Carnetvm22023</carnet>
+
+</ficha>
+<ficha id = "4">
+<pregunta>Pregunta: ¿A partir del ejemplo 1 y ejercicios desarrollados hasta el momento que puede concluir?</pregunta>
+<comentario> Se pueden crear eiquetas de manera libre, es m[as facil identificar que atributos se estan completando </comentario>
+</ficha>
+</fichero>

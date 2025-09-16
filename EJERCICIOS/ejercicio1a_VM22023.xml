@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejercicio1a_VM22023.css"?>
+<!-- ejercicio1a.xml  VM22023 -->
+<fichero>
+<ficha id="1" fechaingreso="15/11/2022">
+<nombre> Nombre completo: Daniela Sofia </nombre>
+<apellido>Vides Miranda</apellido>
+<direccion>Direccion: Calle el algodon, 11A</direccion>
+</ficha>
+
+<ficha id ="2" fechaiingreso ="15/09/2025"> 
+<telefono> TEL: 74323435</telefono>
+<edad> EDAD:  21</edad>
+
+<canttMascotas>Cantidad de mascotas: 6 </canttMascotas>
+</ficha>
+</fichero>
