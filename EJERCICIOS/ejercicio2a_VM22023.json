@@ -1,0 +1,28 @@
+{
+    "@attributes": {
+        "nombre": "El Salvador"
+    },
+    "departamento": [
+        {
+            "@attributes": {
+                "id": "1",
+                "nombre": "San Salvador"
+            },
+            "cabecera": "San Salvador",
+            "habitantes": "1,700,000",
+            "altura": "545 MSNM"
+        },
+        {
+            "@attributes": {
+                "id": "2",
+                "nombre": "San Miguel"
+            },
+            "cabecera": "San Miguel",
+            "habitantes": "232,887",
+            "altura": "110MSNM",
+            "alcalde": "Alexander Torres",
+            "gentillicio": "Migueleno",
+            "zona": "Oriental"
+        }
+    ]
+}

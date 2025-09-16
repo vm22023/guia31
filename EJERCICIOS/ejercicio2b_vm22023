@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<!-- ejercicio2b xml  VM22023 -->
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+
+<departamento id="2" nombre="San Miguel">
+<cabecera>San Miguel</cabecera>
+<habitantes>232,887</habitantes>
+<altura>110MSNM</altura>
+<alcalde> Alexander Torres</alcalde>
+<gentillicio> Migueleno</gentillicio>
+<zona> Oriental</zona>
+</departamento> 
+
+<departamento id="3" nombre="Santa Ana">
+<cabecera>Santa Ana</cabecera>
+<habitantes>250,760</habitantes>
+<altura>665MSNM</altura>
+<alcalde> Gustavo acevedo</alcalde>
+<gentillicio> Santaneco</gentillicio>
+<zona> Occidental</zona>
+<division> 34 cantones</division>
+<patrono> Senora Santa Ana</patrono>
+</departamento> 
+</pais>
+
+<ficha>
+<pregunta> ¿A partir del ejemplo 2 y ejercicios desarrollados hasta el momento que puede concluir?</pregunta>
+<comentario> Al utilizarr lel standalone, si se guarda el documento que no sea xml especificamente, se crea otro coin diferente formato, cuando antes no era necesario especificarlo en guardar como</comentario>
+</ficha>

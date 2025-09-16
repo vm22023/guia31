@@ -1,0 +1,11 @@
+{
+    "ficha": {
+        "@attributes": {
+            "id": "1",
+            "fechaingreso": "1/11/2022"
+        },
+        "nombre": "Daniela Sofia",
+        "apellido": "Vides Miranda",
+        "direccion": "Calle el algodons, 11A"
+    }
+}

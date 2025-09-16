@@ -1,0 +1,39 @@
+{
+    "ficha": [
+        {
+            "@attributes": {
+                "id": "1",
+                "fechaingreso": "1/11/2022"
+            },
+            "nombre": "Daniela Sofia",
+            "apellido": "Vides Miranda",
+            "direccion": "Calle el algodons, 11A"
+        },
+        {
+            "@attributes": {
+                "id": "2",
+                "fechaingreso": "1/11/2022"
+            },
+            "telefono": "74323435",
+            "edad": "21",
+            "canttMascotas": "6"
+        },
+        {
+            "@attributes": {
+                "id": "3",
+                "fechaingreso": "1/11/2022"
+            },
+            "iss": "10102 -22203",
+            "numAFP": "12345667-66643",
+            "carnet": "vm22023",
+            "#text": "i"
+        },
+        {
+            "@attributes": {
+                "id": "4"
+            },
+            "pregunta": "¿A partir del ejemplo 1 y ejercicios desarrollados hasta el momento que puede concluir?",
+            "comentario": "Se pueden crear eiquetas de manera libre, es m[as facil identificar que atributos se estan completando"
+        }
+    ]
+}

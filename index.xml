@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilo.css"?>
+<!-- index.xml - Índice de ejemplos y ejercicios -->
+
+<indice xmlns:xlink="http://www.w3.org/1999/xlink">
+<titulo> GUIA 31</titulo>
+<asignatura> TPI115</asignatura>
+<nombre> Daniela Sofia Vides Miranda</nombre>
+<carnet> VM22023</carnet>
+    <area nombre="Ejemplos">
+        <ejemplo xlink:href="EJEMPLOS/ejemplo1_VM22023.xml">Ejemplo 1</ejemplo>
+        <ejemplo xlink:href="EJEMPLOS/ejemplo2_vm22023.xml">Ejemplo 2</ejemplo>
+    </area>
+
+    <area nombre="Ejercicios">
+        <ejercicio xlink:href="EJERCICIOS/ejercicio1a_VM22023.xml">Ejercicio 1A</ejercicio>
+        <ejercicio xlink:href="EJERCICIOS/ejercicio1b_VM22023.xml">Ejercicio 1B</ejercicio>
+        <ejercicio xlink:href="EJERCICIOS/ejercicio2a_VM22023.xml">Ejercicio 2A</ejercicio>
+        <ejercicio xlink:href="EJERCICIOS/ejercicio2b_vm22023.xml">Ejercicio 2B</ejercicio>
+    </area>
+
+</indice>
+
